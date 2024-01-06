@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**hassan963/hassan963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Android Developer with 6+ years of expeience, alongside 2+ years of experice in iOS and Flutter, a demonstrated history of working in the software industry. 
 
-Here are some ideas to get you started:
+I've achieved impactful results, optimizing apps for a 40% decrease in load times and launching highly-rated apps with 100K+ downloads. Helped companies to reduce the cost of yearly subscription plans on different third party sdk by replacing them with my own implementation. Over the time period I have worked on -
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Implemented android application with MVVM, MVP design pattern and dependency injection using Dagger
+- Launched apps that maintains 4/5 star rating in the Google Play store with 100K+ downloads
+- Improved customer retention with features like gamification, local notifications as reminder, geolocation
+offers
+- Experienced with in app chat, video calling features using zoom sdk, sendbird sdk
+- Implement core features like multi tenancy support, third party payment gateway and in house payment gateway ensuring 3d secure payment
+- Implemented caching mechanism using realm, room, sqlite db
+- Debugged and fixed critical production bugs following crash reports for application with 100k+ downloads
+
+### Skills 💻
+- Languages: Swift, Kotlin, Java, Dart
+- Interests: Machine Learning, Data Science
+
+### Contact 📮
+- LinkedIn: [linkedin.com/in/hassanmashraful](https://in.linkedin.com/in/hassanmashraful)
+
+---
+✉️ hassanmashraful@gmail.com 
